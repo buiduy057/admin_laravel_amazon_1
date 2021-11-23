@@ -1,0 +1,218 @@
+.connectedSortable {
+    margin-top: 100px;
+}
+.count {
+    margin-top: 50px;
+}
+textarea#content {
+    max-width: 100%;
+    resize: none;
+    width: 100%;
+}
+#Tb_variants > tr > td {
+    padding: 10px !important;
+    vertical-align: baseline !important;
+}
+.box-footer {
+    text-align: center;
+}
+.dislay-none {
+    display: none !important;
+}
+.dislay-block {
+    display: block !important;
+}
+.block {
+    display: block;
+}
+#alert {
+    display: none;
+}
+#loadgif {
+    text-align: center;
+    display: none;
+}
+#loadgif img {
+    width: 80px;
+}
+#content-click {
+    display: none;
+}
+.btn-app {
+    background: none !important;
+    border: none !important;
+}
+.btn-button {
+    min-height: 45px;
+    min-width: 100px;
+    font-size: 16px;
+    padding: 10px;
+}
+form#dashboard input {
+    text-align: center;
+}
+.panel-control {
+    text-align: center;
+}
+#zone .select2-container {
+    min-width: 100% !important;
+}
+#textarea-content {
+    display: none;
+}
+#cke_1_contents {
+    height: 500px !important;
+}
+.dataTables_wrapper {
+    margin-top: 10px;
+}
+@media only screen and (max-width: 600px) {
+    #showProduct tr td a.btn-primary {
+        margin-bottom: 0px !important;
+    }
+    #updateModalAll .modal-confirm,
+    #updateModal .modal-confirm {
+        max-width: 355px !important;
+        min-width: 0px !important;
+    }
+    #updateModal h3 {
+        text-align: center;
+    }
+}
+#updateModalAll .modal-confirm,
+#updateModal .modal-confirm {
+    min-width: 500px;
+}
+body {
+    font-family: "Varela Round", sans-serif;
+}
+.modal-confirm {
+    color: #636363;
+    width: 400px;
+}
+.modal-confirm .modal-content {
+    padding: 20px;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    font-size: 14px;
+}
+.modal-confirm .modal-header {
+    border-bottom: none;
+    position: relative;
+}
+.modal-confirm h4 {
+    text-align: center;
+    font-size: 26px;
+    margin: 30px 0 -10px;
+}
+.modal-confirm .close {
+    position: absolute;
+    top: -5px;
+    right: -2px;
+}
+.modal-confirm .modal-body {
+    color: #999;
+}
+.modal-confirm .modal-footer {
+    border: none;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 13px;
+    padding: 10px 15px 25px;
+}
+.modal-confirm .modal-footer a {
+    color: #999;
+}
+.modal-confirm .icon-box {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+    border-radius: 50%;
+    z-index: 9;
+    text-align: center;
+    border: 3px solid #f15e5e;
+}
+.modal-confirm .icon-box i {
+    color: #f15e5e;
+    font-size: 46px;
+    display: inline-block;
+    margin-top: 13px;
+}
+.modal-confirm .btn,
+.modal-confirm .btn:active {
+    color: #fff;
+    border-radius: 4px;
+    background: #60c7c1;
+    text-decoration: none;
+    transition: all 0.4s;
+    line-height: normal;
+    min-width: 120px;
+    border: none;
+    min-height: 40px;
+    border-radius: 3px;
+    margin: 0 5px;
+}
+.modal-confirm .btn-secondary {
+    background: #c1c1c1;
+}
+.modal-confirm .btn-secondary:hover,
+.modal-confirm .btn-secondary:focus {
+    background: #a8a8a8;
+}
+.modal-confirm .btn-danger {
+    background: #f15e5e;
+}
+.modal-confirm .btn-danger:hover,
+.modal-confirm .btn-danger:focus {
+    background: #ee3535;
+}
+.trigger-btn {
+    display: inline-block;
+    margin: 100px auto;
+}
+.dataTables_info {
+    display: none;
+}
+
+.paginate_button {
+    font-size: 13px !important;
+    margin-top: 10px;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.current,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+    background: #3c8dbc !important;
+    border-color: #367fa9 !important;
+    color: #fff !important;
+}
+table.dataTable tbody th,
+table.dataTable tbody td {
+    text-align: center;
+}
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_filter,
+.dataTables_wrapper .dataTables_info,
+.dataTables_wrapper .dataTables_processing,
+.dataTables_wrapper .dataTables_paginate {
+    color: #828080;
+    margin-bottom: 10px;
+}
+.sorting_1 input[type="checkbox"],
+input[type="radio"] {
+    margin: 5px;
+}
+#warning .modal-confirm .close {
+    position: static !important;
+    top: 0 !important;
+    right: 0 !important;
+}
+#warning .modal-confirm h4 {
+    margin: 0 !important;
+}
+.modal-confirm .modal-footer {
+    margin-top: 20px;
+    padding: 0;
+}
+.modal-footer {
+    padding: 0 !important;
+}
